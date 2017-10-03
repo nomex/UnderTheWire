@@ -6,19 +6,17 @@ NOTE:
 
 
 
-PS C:\Users\century1> get-host                                                                                                                                                                                     
-                                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
-Name             : ConsoleHost                                                                                                                                                                                     
-Version          : 5.0.10586.117                                                                                                                                                                                   
-InstanceId       : 5c441d2c-13c1-46c3-84ca-417fd66c0e9d                                                                                                                                                            
-UI               : System.Management.Automation.Internal.Host.InternalHostUserInterface                                                                                                                            
-CurrentCulture   : en-US                                                                                                                                                                                           
-CurrentUICulture : en-US                                                                                                                                                                                           
-PrivateData      : Microsoft.PowerShell.ConsoleHost+ConsoleColorProxy                                                                                                                                              
-DebuggerEnabled  : True                                                                                                                                                                                            
-IsRunspacePushed : False                                                                                                                                                                                           
-Runspace         : System.Management.Automation.Runspaces.LocalRunspace 
+PS C:\Users\century1> $PSVersionTable
+
+Name                           Value                                                                                                                                                                              
+----                           -----                                                                                                                                                                              
+PSVersion                      5.0.10586.117                                                                                                                                                                      
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}                                                                                                                                                            
+BuildVersion                   10.0.10586.117                                                                                                                                                                     
+CLRVersion                     4.0.30319.42000                                                                                                                                                                    
+WSManStackVersion              3.0                                                                                                                                                                                
+PSRemotingProtocolVersion      2.3                                                                                                                                                                                
+SerializationVersion           1.1.0.1    
 
 
-PASS: 5.0.10586.117
+PASS: 10.0.10586.117
