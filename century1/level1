@@ -1,0 +1,24 @@
+The password for Century2 is the build version of the instance of PowerShell installed on this system. 
+
+NOTE:
+- The format is as follows: **.*.****.***** 
+- Include all periods
+
+
+
+PS C:\Users\century1> get-host                                                                                                                                                                                     
+                                                                                                                                                                                                                   
+                                                                                                                                                                                                                   
+Name             : ConsoleHost                                                                                                                                                                                     
+Version          : 5.0.10586.117                                                                                                                                                                                   
+InstanceId       : 5c441d2c-13c1-46c3-84ca-417fd66c0e9d                                                                                                                                                            
+UI               : System.Management.Automation.Internal.Host.InternalHostUserInterface                                                                                                                            
+CurrentCulture   : en-US                                                                                                                                                                                           
+CurrentUICulture : en-US                                                                                                                                                                                           
+PrivateData      : Microsoft.PowerShell.ConsoleHost+ConsoleColorProxy                                                                                                                                              
+DebuggerEnabled  : True                                                                                                                                                                                            
+IsRunspacePushed : False                                                                                                                                                                                           
+Runspace         : System.Management.Automation.Runspaces.LocalRunspace 
+
+
+PASS: 5.0.10586.117
